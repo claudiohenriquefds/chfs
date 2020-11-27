@@ -9,7 +9,7 @@ export default function Home(){
                 <FiAlertTriangle className="justify-self-center" color="#fff" size="25"/>
                 <h1 className="text-xl text-white">Bem-vindo</h1>
                 <h1 className="text-xl text-white">Página inicial</h1>
-                <h1 className="text-xl text-white">Estamos em contrução.</h1>
+                <h1 className="text-xl text-white">Estamos em fase de construção.</h1>
                 <h1 className="text-xl text-white">Clique no gato e visite meu github</h1>
                 <FiArrowDown className="justify-self-center animate-bounce" color="#fff" size="25"/>
                 <a className="flex justify-self-center text-white" target="_blank" rel="noopener noreferrer" href="https://github.com/claudiohenriquefds">
